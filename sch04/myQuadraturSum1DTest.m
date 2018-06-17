@@ -1,6 +1,9 @@
 % Spezielle Lösung einer Aufgabe
 % 04 - angepasst
 
+close all;
+clear all;
+
 format long
 disp('Aufgabe')
 anfangstuetz = 1;

@@ -1,5 +1,8 @@
 % Lösung einer schriftlichen Aufgabe aufgrund von Faulheit
 
+close all;
+clear all;
+
 format long
 n = 7;
 

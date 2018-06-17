@@ -1,5 +1,8 @@
 % Ein kleines Programm zur Abschätzung von N!
 
+close all;
+clear all;
+
 f1 = @(N) factorial(N)
 f2 = @(N) N.^N-e.^(-N)
 
