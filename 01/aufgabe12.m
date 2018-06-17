@@ -7,8 +7,6 @@
 %% Aufgabennummer:   1.2
 %% Program name:     Auslöschung - Polynom
 %%
-%% Program(version): Octave-4.2.2
-%% OS:               Ubuntu 16.04 64bit
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Description of the program

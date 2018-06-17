@@ -7,8 +7,6 @@
 %% Aufgabennummer:   1.1
 %% Program name:     Auslöschung - e-Funktionen
 %%
-%% Program(version): Octave-4.2.2
-%% OS:               Ubuntu 16.04 64bit
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Description of the program
