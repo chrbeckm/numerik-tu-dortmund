@@ -12,8 +12,12 @@
 % Description of the program
 % Input:
 % Output: Datei mit den Variablen für das Makefile
+%
 
+close all;
+clear all;
 format long
+
 funktion = @(x) (e^x+1); % Funktionsdefinition
 
 disp('geschlossen')

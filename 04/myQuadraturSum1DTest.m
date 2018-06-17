@@ -14,10 +14,10 @@
 % Input:
 % Output: myQuadraturSum1DPlot.pdf - Plot zum selber anschauen, bisher noch nichts für *.fig gefunden
 %         myQuadraturSum1DPlot.fig - Plot nach Aufgabenstellung
+%
 
 clear all;
 close all;
-
 format long
 
 disp('Runge Funktion')

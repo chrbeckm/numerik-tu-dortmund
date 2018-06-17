@@ -14,6 +14,7 @@
 %        Gewichtung w
 %        Stützstellen x
 % Output: Wert der Quadratur
+%
 
 function [c] = myQuadratur1D(f, w, x) % Funktionsdeklarierung
       c = 0; % Definition der Summenwertvariable

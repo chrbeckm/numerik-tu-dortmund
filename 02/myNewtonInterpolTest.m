@@ -13,6 +13,10 @@
 % Input:
 % Output: Plot der Interpolationspolynome mit unterschiedlich vielen Stützstellen
 %         Maximaler Fehler jeder Stützstellenverteilung
+%
+
+close all;
+clear all;
 
 f = @(x) (1+25*x.^2).^(-1); % Elementweise Definition der Rungefunktion
 f1 = @(x) (1+25*x^2)^(-1); % Definition der Rungefunktion für Skalare

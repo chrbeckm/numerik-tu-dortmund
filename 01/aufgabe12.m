@@ -14,10 +14,14 @@
 % Input:
 %
 % Output: Speichern des Plots
+%
 
-% Definieren der zu plottenden Funktion:
+close all;
+clear all;
+
 % Definieren des Intervalls:
 x = 0.8:5*10^(-5):1.2;
+% Definieren der zu plottenden Funktion:
 % Funktion 1:
 y = single((x-1).^7);
 % Funktion 2:

@@ -21,6 +21,9 @@
 % Output: Datei der Variablen zur Nutzung eines Makefiles
 %
 
+close all;
+clear all;
+
 format long
 x = -5.5 ;
 a = 0;
